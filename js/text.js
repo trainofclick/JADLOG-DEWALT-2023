@@ -1,0 +1,1 @@
+JADLOG - DEWALT/js/text.js
